@@ -1,2 +1,2 @@
 - [![Bhavdeep Singh Nijhawan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=BhavdeepSinghNijhawan)](https://github.com/BhavdeepSinghNijhawan/github-readme-stats)
-- Profile views: ![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan)
+- ![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan)
