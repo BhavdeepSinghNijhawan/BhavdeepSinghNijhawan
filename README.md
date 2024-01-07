@@ -1,6 +1,6 @@
 - [![Bhavdeep Singh Nijhawan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=BhavdeepSinghNijhawan)](https://github.com/BhavdeepSinghNijhawan/github-readme-stats)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavdeepSinghNijhawan&layout=compact)
-- ![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan&label=PROFILE+VIEWS&color=blue&style=plastic)
+  
 - ## Skills
 
 - **Programming Languages:** C++ | C | Java | Python | Javascript | Firebase | SanityIO | Bootstrap | Tailwind CSS | Material UI
