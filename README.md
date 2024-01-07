@@ -3,10 +3,11 @@
 - ![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan&label=PROFILE+VIEWS&color=blue&style=plastic)
 - ## Skills
 
-- **Programming Languages:** JavaScript, C++, Python
-- **Web Development:** HTML, CSS, React.js, Node.js, Express.js
-- **Database:** SQL, MongoDB
-- **Version Control:** Git, GitHub
+- **Programming Languages:** C++ | C | Java | Python | Javascript | Firebase | SanityIO | Bootstrap | Tailwind CSS | Material UI
+- **Web Development:** HTML | CSS | React.js | Node.js | Express.js
+- **Database:** SQL | MongoDB
+- **Version Control:** Git | GitHub
+- **Tools:** Visual Studio Code | MATLAB | LTSpice | Google Collab | JUPYTER | JASP | Anaconda | Postman | Netlify
 - **UI/UX Design:** Figma
 
 ## Projects
