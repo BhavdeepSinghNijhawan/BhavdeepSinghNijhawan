@@ -12,19 +12,14 @@
 
 ## Projects
 
-### Project 1: [Stop-Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/)
+### [Stop-Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/)
 
- <!-- Replace 'link_to_project1_image' with the actual image URL -->
+### [Tic-Tac-Toe](https://bhavdeepsinghnijhawan.github.io/Tic-Tac-Toe/)
 
-**Description:** HTML | CSS
+### [Analog Clock](https://bhavdeepsinghnijhawan.github.io/Analog-Clock/)
 
-### Project 2: [Tic-Tac-Toe](https://bhavdeepsinghnijhawan.github.io/Tic-Tac-Toe/)
-
-<!-- Replace 'link_to_project2_image' with the actual image URL -->
-
-**Description:** HTML | CSS
+### [Neumorphic Calculator]()
 
 ## Contact
 
-- GitHub: [https://github.com/BhavdeepSinghNijhawan](https://github.com/BhavdeepSinghNijhawan)
-- LinkedIn: [https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280](https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280)
+- **LinkedIn:** [https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280](https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280)
