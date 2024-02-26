@@ -13,6 +13,8 @@
 
 ## Projects
 
+### [UTKRISHT 3.0 ACM Internship Project](https://github.com/BhavdeepSinghNijhawan/UTKRISHT-3.0-ACM-Internship-Project)
+
 ### [Stop-Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/)
 
 ### [Tic-Tac-Toe](https://bhavdeepsinghnijhawan.github.io/Tic-Tac-Toe/)
