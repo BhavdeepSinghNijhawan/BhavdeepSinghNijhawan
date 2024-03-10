@@ -13,7 +13,7 @@
 
 ## Projects
 
-### [UTKRISHT 3.0 ACM Internship Project](https://github.com/BhavdeepSinghNijhawan/UTKRISHT-3.0-ACM-Internship-Project)
+### [Message Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Message-Encoder-and-Decoder/)
 
 ### [Stop Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/)
 
@@ -21,7 +21,7 @@
 
 ### [Analog Clock](https://bhavdeepsinghnijhawan.github.io/Analog-Clock/)
 
-### [Neumorphic Calculator]()
+### [Neumorphic Calculator](https://bhavdeepsinghnijhawan.github.io/Neumorphic-Calculator/)
 
 ### [Marvel Movies](https://bhavdeepsinghnijhawan.github.io/Marvel-Movies-Website-Project/)
 
