@@ -15,6 +15,8 @@
 
 ### [Message Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Message-Encoder-and-Decoder/)
 
+### [Email Marketing Bot](https://github.com/BhavdeepSinghNijhawan/Email-Marketing-Bot)
+
 ### [Stop Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/)
 
 ### [Tic-Tac-Toe](https://bhavdeepsinghnijhawan.github.io/Tic-Tac-Toe/)
