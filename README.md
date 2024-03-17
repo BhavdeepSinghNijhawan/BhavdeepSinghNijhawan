@@ -2,7 +2,7 @@
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavdeepSinghNijhawan&layout=compact)
 - ![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan&label=PROFILE+VIEWS&color=blue&style=plastic)
 
-## Projects
+## PROJECTS
 
 ### [Message Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Message-Encoder-and-Decoder/)
 
@@ -18,6 +18,6 @@
 
 ### [Marvel Movies](https://bhavdeepsinghnijhawan.github.io/Marvel-Movies-Website-Project/)
 
-## Contact
+## CONTACT
 
-- **LinkedIn:** [https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280](https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280)
+- [LinkedIn](https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280)
