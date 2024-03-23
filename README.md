@@ -6,6 +6,8 @@
 
 ### [Message Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Message-Encoder-and-Decoder/)
 
+### [VisualSort](https://github.com/BhavdeepSinghNijhawan/VisualSort)
+
 ### [Email Marketing Bot](https://github.com/BhavdeepSinghNijhawan/Email-Marketing-Bot)
 
 ### [Stop Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/)
