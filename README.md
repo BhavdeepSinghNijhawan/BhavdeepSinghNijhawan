@@ -4,7 +4,7 @@
 
 ## PROJECTS
 
-### [Message Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Message-Encoder-and-Decoder/)
+### [Huffman Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Message-Encoder-and-Decoder/)
 
 ### [VisualSort](https://github.com/BhavdeepSinghNijhawan/VisualSort)
 
@@ -17,8 +17,6 @@
 ### [Analog Clock](https://bhavdeepsinghnijhawan.github.io/Analog-Clock/)
 
 ### [Neumorphic Calculator](https://bhavdeepsinghnijhawan.github.io/Neumorphic-Calculator/)
-
-### [Marvel Movies](https://bhavdeepsinghnijhawan.github.io/Marvel-Movies-Website-Project/)
 
 ## CONTACT
 
