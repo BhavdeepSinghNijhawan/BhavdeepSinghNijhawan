@@ -4,19 +4,11 @@
 
 ## PROJECTS
 
-### [Huffman Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Message-Encoder-and-Decoder/)
+#### [Huffman Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Message-Encoder-and-Decoder/) | [VisualSort](https://github.com/BhavdeepSinghNijhawan/VisualSort)
 
-### [VisualSort](https://github.com/BhavdeepSinghNijhawan/VisualSort)
+#### [Email Marketing Bot](https://github.com/BhavdeepSinghNijhawan/Email-Marketing-Bot)
 
-### [Email Marketing Bot](https://github.com/BhavdeepSinghNijhawan/Email-Marketing-Bot)
-
-### [Stop Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/)
-
-### [Tic-Tac-Toe](https://bhavdeepsinghnijhawan.github.io/Tic-Tac-Toe/)
-
-### [Analog Clock](https://bhavdeepsinghnijhawan.github.io/Analog-Clock/)
-
-### [Neumorphic Calculator](https://bhavdeepsinghnijhawan.github.io/Neumorphic-Calculator/)
+#### [Neumorphic Calculator](https://bhavdeepsinghnijhawan.github.io/Neumorphic-Calculator/) | [Stop Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/) | [Tic-Tac-Toe](https://bhavdeepsinghnijhawan.github.io/Tic-Tac-Toe/) | [Analog Clock](https://bhavdeepsinghnijhawan.github.io/Analog-Clock/)
 
 ## CONTACT
 
