@@ -6,7 +6,7 @@
 
 #### [Huffman Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Huffman-Encoder-and-Decoder/) | [VisualSort](https://github.com/BhavdeepSinghNijhawan/VisualSort)
 
-#### [Email Marketing Bot](https://github.com/BhavdeepSinghNijhawan/Email-Marketing-Bot)
+#### [InboxMaster](https://github.com/BhavdeepSinghNijhawan/InboxMaster)
 
 #### [Neumorphic Calculator](https://bhavdeepsinghnijhawan.github.io/Neumorphic-Calculator/) | [Stop Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/) | [Tic-Tac-Toe](https://bhavdeepsinghnijhawan.github.io/Tic-Tac-Toe/) | [Analog Clock](https://bhavdeepsinghnijhawan.github.io/Analog-Clock/)
 
