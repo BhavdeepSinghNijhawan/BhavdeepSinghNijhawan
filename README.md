@@ -4,7 +4,7 @@
 
 ## PROJECTS
 
-#### [EduManage](https://done-pi.vercel.app/) | [GrocerGo](https://grocery-shopping-website-theta.vercel.app/)
+#### [EduManage (Incomplete)](https://done-pi.vercel.app/) | [GrocerGo](https://grocery-shopping-website-theta.vercel.app/)
 
 #### [Huffman Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Huffman-Encoder-and-Decoder/) | [VisualSort](https://github.com/BhavdeepSinghNijhawan/VisualSort)
 
