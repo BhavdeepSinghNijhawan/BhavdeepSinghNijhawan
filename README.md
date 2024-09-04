@@ -2,13 +2,15 @@
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavdeepSinghNijhawan&layout=compact)
 - ![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan&label=PROFILE+VIEWS&color=blue&style=plastic)
 
+<h1 align="center">REPORTS</h1>
+
 #### [IBM SkillSBuild Summer Internship Program with CSRBOX](https://github.com/BhavdeepSinghNijhawan/IBM-SkillsBuild-Summer-Internship-Program-with-CSRBOX)
 
 #### [ITJOBXS](https://github.com/BhavdeepSinghNijhawan/ITJOBXS-Internship)
 
 #### [UTKRISHT 3.0 Association For Computing Machinery](https://github.com/BhavdeepSinghNijhawan/UTKRISHT-3.0-Association-for-Computing-Machinery-Internship)
 
-## PROJECTS
+<h1 align="center">PROJECTS</h1>
 
 #### [EduManage (Backend Incomplete)](https://edumanagenijhawan.vercel.app/) | [GrocerGo](https://grocery-shopping-website-theta.vercel.app/)
 
