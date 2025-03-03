@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Bhavdeep Singh Nijhawan 👋
+# Hi there, I'm Bhavdeep Singh Nijhawan
 
 [![Bhavdeep Singh Nijhawan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=BhavdeepSinghNijhawan)](https://github.com/BhavdeepSinghNijhawan/github-readme-stats)
 
