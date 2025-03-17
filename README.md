@@ -37,6 +37,7 @@
 
   <!-- Gmail Button -->
   <a href="mailto:bhavdeepnijhawan22@gmail.com" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/bhavdeepnijhawan22-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</div>
 </div>
