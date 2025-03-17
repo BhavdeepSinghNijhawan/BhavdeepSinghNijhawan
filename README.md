@@ -2,11 +2,9 @@
 
 # Hi there, I'm Bhavdeep Singh Nijhawan
 
-[![Bhavdeep Singh Nijhawan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=BhavdeepSinghNijhawan)](https://github.com/BhavdeepSinghNijhawan/github-readme-stats)
+![Bhavdeep Singh Nijhawan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=BhavdeepSinghNijhawan) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavdeepSinghNijhawan&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavdeepSinghNijhawan&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan&label=PROFILE+VIEWS&color=blue&style=plastic)
+![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan&label=Profile+Views&color=blue&style=plastic)
 
 <h1>REPORTS</h1>
 
@@ -28,4 +26,17 @@
 ***
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BhavdeepSinghNijhawan&theme=onedark&no-frame=true&row=1&column=7)
 
+</div>
+
+***
+<div align="center">
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Gmail Button -->
+  <a href="mailto:bhavdeepnijhawan22@gmail.com" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
