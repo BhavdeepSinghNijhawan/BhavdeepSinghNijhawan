@@ -24,6 +24,95 @@
 
 #### [InboxMaster](https://github.com/BhavdeepSinghNijhawan/InboxMaster) | [MatrixVision](https://github.com/BhavdeepSinghNijhawan/MatrixVision)
 ***
+
+<table>
+  <tr>
+    <td align="center" style="border: 2px solid black; padding: 0; width: 160px;">
+      <a href="https://edumanagenijhawan.vercel.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d44638f5-5f8e-4d79-80a2-27dd8e75ab7c" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">EduManage</div>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 0; width: 160px;">
+      <a href="https://grocery-shopping-website-theta.vercel.app/" target="_blank">
+        <img src="https://github.com/BhavdeepSinghNijhawan/GrocerGo/assets/143419096/efb219ee-3ac0-476d-b5a8-555b75081feb" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">GrocerGo</div>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 0; width: 160px;">
+      <a href="https://yourproject3.url" target="_blank">
+        <img src="https://github.com/user-attachments/assets/79dbd7fd-eb2d-4b40-a250-0fff7edce50e" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">Huffman Encoder and Decoder</div>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 0; width: 160px;">
+      <a href="https://yourproject4.url" target="_blank">
+        <img src="https://github.com/user-attachments/assets/024d6d26-0f9a-4453-ac66-080b93235a9a" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">VisualSort</div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid black; padding: 0;">
+      <a href="https://yourproject5.url" target="_blank">
+        <img src="https://github.com/BhavdeepSinghNijhawan/Neumorphic-Calculator/assets/143419096/44984475-8ea0-431b-b896-74073259a60f" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">Neumorphic Calculator</div>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 0;">
+      <a href="https://yourproject6.url" target="_blank">
+        <img src="https://github.com/BhavdeepSinghNijhawan/Stop-Watch/assets/143419096/3fe6f522-bdb6-4650-846d-3554b92cc9a6" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">Stop Watch</div>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 0;">
+      <a href="https://yourproject7.url" target="_blank">
+        <img src="https://github.com/BhavdeepSinghNijhawan/Tic-Tac-Toe/assets/143419096/1d506056-9ac3-455d-9c61-418c5f19a2a7" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">Tic-Tac-Toe</div>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 0;">
+      <a href="https://github.com/BhavdeepSinghNijhawan/Email-Marketing-Bot/assets/143419096/8109b397-e5ed-4d81-9a08-89208fa3be61" target="_blank">
+        <img src="https://github.com/BhavdeepSinghNijhawan/Email-Marketing-Bot/assets/143419096/8109b397-e5ed-4d81-9a08-89208fa3be61)" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">InboxMaster</div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 2px solid black; padding: 0;">
+      <a href="https://yourproject9.url" target="_blank">
+        <img src="https://github.com/BhavdeepSinghNijhawan/MatrixVision/assets/143419096/84751a93-cb06-4156-b60d-b1c162392d6d" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">MatrixVision</div>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 0;">
+      <a href="https://yourproject10.url" target="_blank">
+        <img src="https://your-image-url10.png" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">Project 10</div>
+      </a>
+    </td>
+    <td align="center" style="border: 2px solid black; padding: 0;">
+      <a href="https://yourproject11.url" target="_blank">
+        <img src="https://your-image-url11.png" width="140" height="140" style="border: 1px solid black; display: block;">
+        <hr style="border: 1px solid black; margin: 0;">
+        <div style="font-size: 14px; font-weight: bold; padding: 4px;">Project 11</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+***
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BhavdeepSinghNijhawan&theme=onedark&no-frame=true&row=1&column=7)
 
 ***
