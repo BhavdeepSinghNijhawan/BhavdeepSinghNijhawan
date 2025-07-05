@@ -15,16 +15,6 @@
 #### [UTKRISHT 3.0 Association For Computing Machinery](https://github.com/BhavdeepSinghNijhawan/UTKRISHT-3.0-Association-for-Computing-Machinery-Internship)
 
 <h1>PROJECTS</h1>
-
-#### [EduManage (Backend Incomplete)](https://edumanagenijhawan.vercel.app/) | [GrocerGo](https://grocery-shopping-website-theta.vercel.app/)
-
-#### [Huffman Encoder and Decoder](https://bhavdeepsinghnijhawan.github.io/Huffman-Encoder-and-Decoder/) | [VisualSort](https://github.com/BhavdeepSinghNijhawan/VisualSort)
-
-#### [Neumorphic Calculator](https://bhavdeepsinghnijhawan.github.io/Neumorphic-Calculator/) | [Stop Watch](https://bhavdeepsinghnijhawan.github.io/Stop-Watch/) | [Tic-Tac-Toe](https://bhavdeepsinghnijhawan.github.io/Tic-Tac-Toe/) | [Analog Clock](https://bhavdeepsinghnijhawan.github.io/Analog-Clock/)
-
-#### [InboxMaster](https://github.com/BhavdeepSinghNijhawan/InboxMaster) | [MatrixVision](https://github.com/BhavdeepSinghNijhawan/MatrixVision)
-***
-
 <table>
   <tr>
     <td align="center" style="border: 2px solid black; padding: 0; width: 160px;">
