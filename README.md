@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan&label=Profile+Views&color=blue&style=plastic)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/BhavdeepSinghNijhawa?ext=contest)
+
 <h1>REPORTS</h1>
 
 #### [IBM SkillSBuild Summer Internship Program with CSRBOX](https://github.com/BhavdeepSinghNijhawan/IBM-SkillsBuild-Summer-Internship-Program-with-CSRBOX)
