@@ -6,7 +6,16 @@
 
 ![](https://komarev.com/ghpvc/?username=BhavdeepSinghNijhawan&label=Profile+Views&color=blue&style=plastic)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/BhavdeepSinghNijhawa?ext=contest)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/BhavdeepSinghNijhawa?ext=contest" height="220" alt="Leetcode Stats" />
+    </td>
+    <td align="center">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=BhavdeepSinghNijhawa" height="220" alt="Codeforces Stats" />
+    </td>
+  </tr>
+</table>
 
 <h1>REPORTS</h1>
 
