@@ -14,6 +14,9 @@
     <td align="center">
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=BhavdeepSinghNijhawa" height="220" alt="Codeforces Stats" />
     </td>
+    <td align="center">
+      <img src="https://gfgstatscard.vercel.app/bhavdeepniwp79" height="220" alt="GFG stats" />
+    </td>
   </tr>
 </table>
 
