@@ -9,13 +9,25 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/BhavdeepSinghNijhawa?ext=contest" height="220" alt="Leetcode Stats" />
+      <img
+        src="https://leetcard.jacoblin.cool/BhavdeepSinghNijhawa?ext=contest&v=1"
+        height="220"
+        alt="Leetcode Stats"
+      />
     </td>
     <td align="center">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=BhavdeepSinghNijhawa" height="220" alt="Codeforces Stats" />
+      <img
+        src="https://codeforces-readme-stats.vercel.app/api/card?username=BhavdeepSinghNijhawa&v=1"
+        height="220"
+        alt="Codeforces Stats"
+      />
     </td>
     <td align="center">
-      <img src="https://gfgstatscard.vercel.app/bhavdeepniwp79" height="220" alt="GFG stats" />
+      <img
+        src="https://gfgstatscard.vercel.app/bhavdeepniwp79?v=1"
+        height="220"
+        alt="GFG Stats"
+      />
     </td>
   </tr>
 </table>
